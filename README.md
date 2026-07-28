@@ -20,4 +20,4 @@ This project analyses electricity consumption data using SQL and Tableau. It hel
 - Visual reports
 
 ## Author
-Durgasree1234
+Durgasree
